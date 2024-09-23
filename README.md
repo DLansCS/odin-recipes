@@ -1,0 +1,1 @@
+This project is an introductory coding assignment to practice building a page in HTML and using git in the process. Thanks!
